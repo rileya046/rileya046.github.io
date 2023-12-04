@@ -3,7 +3,7 @@ This is my home page! My name is Lexie Riley and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/rileya046".
+My GitHub page is [https://github.com/rileya046](https://github.com/rileya046).
 
 ### CPSC 120
 * Lab 4
