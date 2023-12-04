@@ -1,8 +1,4 @@
 # Hello World
-3 favorite projects: Lab 4, Lab 8, and Lab 11
-
-
-
 This is my home page! My name is Lexie Riley and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
